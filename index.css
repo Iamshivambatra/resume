@@ -8,7 +8,7 @@
 }
 
 #header-content {
-  background-image: url(/images/macbook_mouse.jpg);
+  background-image: url(./images/macbook_mouse.jpg);
   background-color: lightgrey;
   background-position: center;
   background-attachment: fixed;
